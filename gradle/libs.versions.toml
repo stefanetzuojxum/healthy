@@ -1,5 +1,5 @@
 [versions]
-detection = "1.7.35"
+detection = "2.0.17"
 regular = "3.3.1"
 
 [libraries]
