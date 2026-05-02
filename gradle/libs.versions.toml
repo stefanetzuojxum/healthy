@@ -1,0 +1,7 @@
+[versions]
+detection = "1.7.35"
+regular = "3.3.1"
+
+[libraries]
+detection = { module = "org.slf4j:slf4j-api", version.ref = "detection" }
+regular = { module = "io.ktor:ktor-server-call-logging", version.ref = "regular" }
